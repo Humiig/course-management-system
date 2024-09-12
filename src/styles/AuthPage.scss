@@ -1,0 +1,43 @@
+.auth-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+  }
+  
+  .auth-container h1 {
+    text-align: center;
+    margin-bottom: 24px;
+  }
+  
+  .auth-container .ant-input {
+    margin-bottom: 16px;
+  }
+  
+  .auth-container .ant-btn {
+    width: 100%;
+    margin-bottom: 16px;
+    margin-top: 10px;
+  }
+  
+  .auth-container .auth-links {
+    display: flex;
+    justify-content: space-between;
+    
+  }
+  
+  .auth-container .auth-links a {
+    text-decoration: none;
+    color: #1890ff; 
+  }
+  
+  .auth-container .auth-links a:hover {
+    color: #10446e; 
+  }
+
+  .ant-button {
+    margin-right: 10px;
+
+  }
